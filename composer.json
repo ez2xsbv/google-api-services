@@ -1,8 +1,8 @@
 {
-    "name": "google/apiclient-services",
+    "name": "ez2xsbv/google-api-services",
     "type": "library",
-    "description": "Client library for Google APIs",
-    "keywords": ["google"],
+    "description": "Client library for EZ2XS Google APIs",
+    "keywords": ["EZ2XS","google","services"],
     "homepage": "https://www.ez2xs.com",
     "license": "Apache-2.0",
     "require": {
