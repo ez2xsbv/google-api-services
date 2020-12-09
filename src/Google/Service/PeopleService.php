@@ -292,6 +292,10 @@ class Google_Service_PeopleService extends Google_Service
                   'location' => 'query',
                   'type' => 'string',
                 ),
+                'updatePerson' => array(
+                  'location' => 'query',
+                  'type' => 'string',
+                ),
               ),
             ),'updateContactPhoto' => array(
               'path' => 'v1/{+resourceName}:updateContactPhoto',
